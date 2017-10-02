@@ -1,6 +1,7 @@
 html {
   background-color: #f2f1ed;
   font-family: Georgia, serif;
+  line-height: 1.5;
 }
 
 h1, h2 {
@@ -28,10 +29,12 @@ a:hover {
 }
 
 nav {
-  font-family: 'Patua One', cursive;
+  font-family: "Patua One", cursive;
+  font-weight: bold;
+  font-size: 1.125rem;
 }
 
 ol {
-   list-style-type: none;
-   text-decoration: none;
+  list-style-type: none;
+  text-decoration: none;
 }
