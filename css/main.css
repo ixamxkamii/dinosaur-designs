@@ -1,4 +1,37 @@
-html{
+html {
   background-color: #f2f1ed;
   font-family: Georgia, serif;
+}
+
+h1, h2 {
+  color: #5d8432;
+  text-transform: uppercase;
+  font-family: 'Patua One', cursive;
+}
+
+img {
+  width: 100%;
+}
+
+figcaption {
+  font-size: .9rem;
+  font-style: italic;
+  text-align: center;
+}
+
+a {
+  color: #793284;
+}
+
+a:hover {
+  color: #b42885;
+}
+
+nav {
+  font-family: 'Patua One', cursive;
+}
+
+ol {
+   list-style-type: none;
+   text-decoration: none;
 }
