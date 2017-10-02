@@ -15,13 +15,14 @@ img {
 }
 
 figcaption {
-  font-size: .9rem;
+  font-size: .8rem;
   font-style: italic;
   text-align: center;
 }
 
 a {
   color: #793284;
+  text-decoration: none;
 }
 
 a:hover {
@@ -36,5 +37,8 @@ nav {
 
 ol {
   list-style-type: none;
-  text-decoration: none;
+}
+
+.hadrosaur {
+  font-size: 1rem;
 }
